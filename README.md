@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 2, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Mike Hart)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment I created a webpage that prompts the user to enter their tax information such as filing status and income. With this information the user can press the calculate button to show what tax bracket they fall under.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://mjh15e.github.io/lesson5_javascript2/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (In this lesson I learned more about the function and benefits of the getElementById function in order to create dynamic web pages.)
+2. (I also learned how to initialize and declare variables using javascript.)
+3. (Finally, I learned how to clear a page of all entered data and return it to its original form.)
 
